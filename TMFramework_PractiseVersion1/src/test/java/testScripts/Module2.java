@@ -38,4 +38,8 @@ public class Module2 extends BaseClass
 
 		driver.quit();
 	}
+	
+	public void TC202(){
+		System.out.println("..........TC202 output..........");
+	}
 }
